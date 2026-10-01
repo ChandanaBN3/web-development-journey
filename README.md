@@ -14,10 +14,10 @@ This repository contains my web development learning journey.
 - [ ] Semantic HTML
 
 ### CSS
-- [ ] CSS Basics
-- [ ] Selectors
-- [ ] Box Model
-- [ ] Flexbox
+- [x] CSS Basics
+- [x] Selectors
+- [x] Box Model
+- [x] Flexbox
 - [ ] Grid
 - [ ] Responsive Design
 
